@@ -1,0 +1,8 @@
+.promo_heading{
+    color: var(--Black, #101010);
+    font-family: "Playfair Display";
+    font-size: 102px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%;
+}
