@@ -18,6 +18,16 @@
 @import url("../blocks/description/_text/_subtitle/description_text_subtitle.css");
 @import url("../blocks/description/_text/_paragraph/description_text_paragraph.css");
 
+@import url("../blocks/about/about.css");
+@import url("../blocks/about/_title/about_title.css");
+@import url("../blocks/about/_title/_text/about_title_text.css");
+@import url("../blocks/about/_title/_line/about_title_line.css");
+@import url("../blocks/about/_dark/about_dark.css");
+@import url("../blocks/about/_dark/_line/about_dark_line.css");
+@import url("../blocks/about/_dark/_text/about_dark_text.css");
+@import url("../blocks/about/_dark/_title/about_dark_title.css");
+@import url("../blocks/about/_dark/_text/_paragraph/about_dark_text_paragraph.css");
+
 body{
     background-color: var(--Gray-6, #F2F2F2);
     color: var(--Black, #101010);

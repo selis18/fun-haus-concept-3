@@ -1,0 +1,6 @@
+.about_dark_title{
+    display: flex;
+    align-items: center;
+    padding: 50px 0 0 0;
+    gap: 43px;
+}
