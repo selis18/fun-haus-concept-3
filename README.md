@@ -1,3 +1,3 @@
 # fun-haus-concept-3
  
-Project - fun-haus-concept-3.vercel.app
+Project - https://fun-haus-concept-3.vercel.app/
