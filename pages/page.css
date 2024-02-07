@@ -27,6 +27,13 @@
 @import url("../blocks/about/_dark/_text/about_dark_text.css");
 @import url("../blocks/about/_dark/_title/about_dark_title.css");
 @import url("../blocks/about/_dark/_text/_paragraph/about_dark_text_paragraph.css");
+@import url("../blocks/about/_text/about_text.css");
+@import url("../blocks/about/_text/_title/about_text_title.css");
+@import url("../blocks/about/_text/_paragraph/about_text_paragraph.css");
+@import url("../blocks/about/_bild/about_bild.css");
+@import url("../blocks/about/_bild/_image/about_bild_image.css");
+@import url("../blocks/about/_bild/_quote/_line/about_bild_quote_line.css");
+@import url("../blocks/about/_bild/_quote/about_bild_quote.css");
 
 body{
     background-color: var(--Gray-6, #F2F2F2);
