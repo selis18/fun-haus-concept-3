@@ -1,0 +1,6 @@
+.footer_menu_links{
+    display: flex;
+    flex-direction: row;
+    gap:106px;
+    margin-bottom: 318px;
+}

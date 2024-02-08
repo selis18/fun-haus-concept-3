@@ -46,6 +46,16 @@
 @import url("../blocks/gallery/_images/_item/_line/gallery_images_item_line.css");
 @import url("../blocks/gallery/_images/_item/_quote/gallery_images_item_quote.css");
 
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/_menu/footer_menu.css");
+@import url("../blocks/footer/_menu/_logo/footer_menu_logo.css");
+@import url("../blocks/footer/_menu/_links/footer_menu_links.css");
+@import url("../blocks/footer/_menu/_links/_column/footer_menu_links_column.css");
+@import url("../blocks/footer/_menu/_links/_column/_list/footer_menu_links_column_list.css");
+@import url("../blocks/footer/_menu/_links/_column/_title/footer_menu_links_column_title.css");
+
+
+
 
 body{
     background-color: var(--Gray-6, #F2F2F2);

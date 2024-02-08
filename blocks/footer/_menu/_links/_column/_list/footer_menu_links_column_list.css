@@ -1,0 +1,10 @@
+.footer_menu_links_column_list{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-family: DM Sans;
+    font-size: 21.27px;
+    font-weight: 400;
+    line-height: 198.7%;
+}
