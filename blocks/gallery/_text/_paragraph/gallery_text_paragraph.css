@@ -1,0 +1,10 @@
+.gallery_text_paragraph{
+    position: relative;
+    max-width: 925px;
+    margin-top: 175px;
+    left:495px;
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+}

@@ -35,7 +35,20 @@
 @import url("../blocks/about/_bild/_quote/_line/about_bild_quote_line.css");
 @import url("../blocks/about/_bild/_quote/about_bild_quote.css");
 
+@import url("../blocks/gallery/gallery.css");
+@import url("../blocks/gallery/_text/gallery_text.css");
+@import url("../blocks/gallery/_text/_title/gallery_text_title.css");
+@import url("../blocks/gallery/_text/_subtitle/gallery_text_subtitle.css");
+@import url("../blocks/gallery/_text/_paragraph/gallery_text_paragraph.css");
+@import url("../blocks/gallery/_images/gallery_images.css");
+@import url("../blocks/gallery/_images/_item/gallery_images_item.css");
+@import url("../blocks/gallery/_images/_item/_image/gallery_images_item_image.css");
+@import url("../blocks/gallery/_images/_item/_line/gallery_images_item_line.css");
+@import url("../blocks/gallery/_images/_item/_quote/gallery_images_item_quote.css");
+
+
 body{
     background-color: var(--Gray-6, #F2F2F2);
     color: var(--Black, #101010);
+    overflow-x: hidden;
 }
